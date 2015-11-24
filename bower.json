@@ -1,14 +1,14 @@
 {
-  "name": "Bootflat",
+  "name": "bootflat-for-2sic",
   "version": "2.0.4",
-  "homepage": "http://bootflat.github.io",
+  "homepage": "http://2sxc.org",
   "authors": [
     "flathemes <info@flathemes.com>"
   ],
-  "description": "BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.",
+  "description": "this is the 2sic-theme of BOOTFLAT - an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bootflat/bootflat.github.io.git"
+    "url": "https://github.com/2sic/bootflat-for-2sic.git"
   },
   "main": [
     "bootflat/css/*",
